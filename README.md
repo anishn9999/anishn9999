@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anish Kumar
 
-### 💻 Frontend Developer | Java & DSA Learner | B.Tech Student
+### 💻 Frontend & Backend Developer | Java & DSA Learner | B.Tech Student
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anishn9999&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
