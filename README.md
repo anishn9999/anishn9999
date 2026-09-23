@@ -14,11 +14,7 @@
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **AI-Based Financial Literacy Platform for Women**
-* 🌱 Currently learning **Data Structures & Algorithms**
-* 💻 Interested in **Web Development, Java, DSA & AI-based projects**
-* 🎯 Focused on improving my **problem-solving and development skills**
-* 📫 Reach me at **[anishn9999@gmail.com](mailto:anishn9999@gmail.com)**
+I'm a Computer Science Engineering student passionate about software development, Java programming, Data Structures & Algorithms, and web development. I enjoy building practical projects and continuously improving my problem-solving skills.
 
 ---
 
