@@ -3,7 +3,7 @@
 ### 💻 Frontend & Backend Developer | Java & DSA Learner | B.Tech Student
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishn9999&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=anishn9999&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="https://my-portfolio-beige-theta-wvu0vx6ex5.vercel.app/"/>
 </p>
 
 <p align="center">
